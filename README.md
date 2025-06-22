@@ -12,9 +12,9 @@ Features
 - 🌐 Powered by LangChain and HuggingFaceHub
 
  Tech Stack
-Python
-Streamlit – Web UI
-LangChain – Framework for chaining LLMs
-FAISS – Vector search
-HuggingFace Embeddings & LLMs – For text understanding and generation
-BeautifulSoup – Web scraping
+-Python
+-Streamlit – Web UI
+-LangChain – Framework for chaining LLMs
+-FAISS – Vector search
+-HuggingFace Embeddings & LLMs – For text understanding and generation
+-BeautifulSoup – Web scraping
