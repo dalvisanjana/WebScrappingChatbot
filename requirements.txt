@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+huggingface-hub
+faiss-cpu
+beautifulsoup4
+requests
+langchain-community==0.0.32  
+faiss-cpu
